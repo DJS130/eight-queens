@@ -70,4 +70,4 @@ ViroMaterials.createMaterials({
   },
 });
 
-module.exports
+module.exports = HelloWorldSceneAR;
